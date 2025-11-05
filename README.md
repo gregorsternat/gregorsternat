@@ -1,3 +1,4 @@
-<div align="center"> 
-  <img src="https://counter.kuber.studio/gregorsternat/dark/count.svg" alt="Profile views" />
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.deno.dev/gregorsternat/count.svg" alt="Key:: Visitor's Count" />
 </div>
