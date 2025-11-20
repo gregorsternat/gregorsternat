@@ -10,7 +10,7 @@
 </div>
 
 ### A full-stack software engineer passionate about designing reliable, scalable, and elegant web applications
-- Currently working as a **Software Engineering Intern at [Kiln](https://www.kiln.fi)**
+- Currently working as a **Software Engineering Intern/Freelance at [Kiln](https://www.kiln.fi)**
 - Studying **Computer Science at [EPITECH](https://www.epitech.eu)**
 - Mainly working with **Go**, **Next.js**, and **Nuxt.js** to build high-performance, maintainable applications
 - Open to freelance projects and collaborations — feel free to reach out!
