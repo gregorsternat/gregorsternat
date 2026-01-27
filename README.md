@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://github.com/gregorsternat/gregorsternat/blob/main/readme_banner.gif" alt="Banner of a developer sitting in front of a desk">
-</div>
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&height=150&lines=I'm+Gr%C3%A9gor+Sternat;Bringing+ideas+to+life" alt="Typing SVG" />
 </div>
 
