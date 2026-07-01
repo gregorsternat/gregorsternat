@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&height=150&lines=I'm+Gr%C3%A9gor+Sternat;Bringing+ideas+to+life" alt="Typing SVG" />
-</div>
-
 ### Full-stack developer building reliable backend, cloud, AI-powered, and web applications
 - Currently working as a **Full-stack Developer at Davai**
 - Studying toward an **Information Technology Expert Degree at [EPITECH](https://www.epitech.eu)**
