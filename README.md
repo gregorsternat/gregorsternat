@@ -1,8 +1,8 @@
-### Full-stack developer building reliable backend, cloud, AI-powered, and web applications
-- Currently working as a **Full-stack Developer at Davai**
+### Backend-focused full-stack developer | Go & Rust
+- Full-stack developer focused on backend engineering with Go and Rust, building reliable services and complete web applications.
 - Studying toward an **Information Technology Expert Degree at [EPITECH](https://www.epitech.eu)**
-- Production experience across **backend services**, **cloud infrastructure**, **AI-powered applications**, and **full-stack development**
-- Interested in scalable software architectures, developer tooling, and maintainable product engineering
+- Production experience building **Go backend services**, **distributed systems**, and **cloud infrastructure**, alongside **full-stack web applications**
+- Focused on reliability, scalable software architectures, developer tooling, and maintainable product engineering
 
 <br>
 <div align="center">
@@ -21,13 +21,13 @@
 ## Languages and Tools
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,python,rust,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=go,rust,ts,python,cpp,c" />
   <img src="https://skillicons.dev/icons?i=aws,docker,postgres,nextjs,nuxtjs,expo,react" />
 </p>
 <hr>
 
 ## Experience Highlights
-- **Davai**: designed and deployed production-grade AWS infrastructure, built AI-powered monitoring systems, and developed internal automation platforms spanning backend, frontend, mobile, and cloud.
 - **Kiln**: developed production Go backend services, built blockchain data monitoring systems, and optimized distributed services for performance, scalability, and reliability.
+- **Davai**: designed and deployed production-grade AWS infrastructure, built AI-powered monitoring systems, and developed internal automation platforms with backend services and frontend interfaces.
 - **PoC Innovation & EPITECH**: built web and blockchain proof-of-concepts with Next.js, Nuxt.js, Solidity, and Rust, while mentoring students in software engineering fundamentals.
 <hr>
